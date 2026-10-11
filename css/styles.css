@@ -365,7 +365,7 @@ img {
 
 .badge-card {
     left: -2px;
-    bottom: 40px;
+    bottom: 20px;
     display: flex;
     align-items: center;
     gap: 10px;
